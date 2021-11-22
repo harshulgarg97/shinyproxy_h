@@ -1,4 +1,4 @@
-FROM rocker/r-base:latest
+FROM rocker/shiny-app:latest
 
 LABEL maintainer="Peter Solymos <peter@analythium.io>"
 
