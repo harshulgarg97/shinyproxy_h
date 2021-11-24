@@ -1,4 +1,4 @@
-FROM rocker/shiny-app:latest
+FROM openanalytics/r-base
 
 LABEL maintainer="Peter Solymos <peter@analythium.io>"
 
